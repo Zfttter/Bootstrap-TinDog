@@ -18,11 +18,11 @@ This project replicates a fictional dog-dating service website and was created a
 
 ## 📌 Features
 
-- 💡 Responsive design with Bootstrap grid system  
-- 🖼️ Hero section with mockup images  
-- 🎯 Call-to-action buttons styled with Bootstrap buttons  
-- 📱 Mobile-first layout  
-- 🌈 Clean and modern styling using Bootstrap utility classes
+- Responsive design with Bootstrap grid system  
+- Hero section with mockup images  
+- Call-to-action buttons styled with Bootstrap buttons  
+- Mobile-first layout  
+- Clean and modern styling using Bootstrap utility classes
 
 ---
 
